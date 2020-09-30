@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/doctor/static/css/main.c3fc2fb2.chunk.css",
-    "main.js": "/doctor/static/js/main.3632bc73.chunk.js",
-    "main.js.map": "/doctor/static/js/main.3632bc73.chunk.js.map",
-    "runtime-main.js": "/doctor/static/js/runtime-main.1ca791f1.js",
-    "runtime-main.js.map": "/doctor/static/js/runtime-main.1ca791f1.js.map",
-    "static/css/2.72424e78.chunk.css": "/doctor/static/css/2.72424e78.chunk.css",
-    "static/js/2.15a375d1.chunk.js": "/doctor/static/js/2.15a375d1.chunk.js",
-    "static/js/2.15a375d1.chunk.js.map": "/doctor/static/js/2.15a375d1.chunk.js.map",
-    "index.html": "/doctor/index.html",
-    "precache-manifest.695816fc598bdbc291b7bf344a6738b0.js": "/doctor/precache-manifest.695816fc598bdbc291b7bf344a6738b0.js",
-    "service-worker.js": "/doctor/service-worker.js",
-    "static/css/2.72424e78.chunk.css.map": "/doctor/static/css/2.72424e78.chunk.css.map",
-    "static/css/main.c3fc2fb2.chunk.css.map": "/doctor/static/css/main.c3fc2fb2.chunk.css.map",
-    "static/js/2.15a375d1.chunk.js.LICENSE.txt": "/doctor/static/js/2.15a375d1.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/doctor/static/media/outline-icons.ef60a4f6.woff"
+    "main.css": "/doctor2/static/css/main.c3fc2fb2.chunk.css",
+    "main.js": "/doctor2/static/js/main.c35b7ba9.chunk.js",
+    "main.js.map": "/doctor2/static/js/main.c35b7ba9.chunk.js.map",
+    "runtime-main.js": "/doctor2/static/js/runtime-main.3c519548.js",
+    "runtime-main.js.map": "/doctor2/static/js/runtime-main.3c519548.js.map",
+    "static/css/2.3df0d112.chunk.css": "/doctor2/static/css/2.3df0d112.chunk.css",
+    "static/js/2.15a375d1.chunk.js": "/doctor2/static/js/2.15a375d1.chunk.js",
+    "static/js/2.15a375d1.chunk.js.map": "/doctor2/static/js/2.15a375d1.chunk.js.map",
+    "index.html": "/doctor2/index.html",
+    "precache-manifest.51359bacc522d6f7249045df402ebefa.js": "/doctor2/precache-manifest.51359bacc522d6f7249045df402ebefa.js",
+    "service-worker.js": "/doctor2/service-worker.js",
+    "static/css/2.3df0d112.chunk.css.map": "/doctor2/static/css/2.3df0d112.chunk.css.map",
+    "static/css/main.c3fc2fb2.chunk.css.map": "/doctor2/static/css/main.c3fc2fb2.chunk.css.map",
+    "static/js/2.15a375d1.chunk.js.LICENSE.txt": "/doctor2/static/js/2.15a375d1.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/doctor2/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.1ca791f1.js",
-    "static/css/2.72424e78.chunk.css",
+    "static/js/runtime-main.3c519548.js",
+    "static/css/2.3df0d112.chunk.css",
     "static/js/2.15a375d1.chunk.js",
     "static/css/main.c3fc2fb2.chunk.css",
-    "static/js/main.3632bc73.chunk.js"
+    "static/js/main.c35b7ba9.chunk.js"
   ]
 }
